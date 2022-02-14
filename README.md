@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jerlin-geo
-- 👀 I’m looking for java developer roles(entry level)
-
 
 
 <!---
